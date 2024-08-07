@@ -1,3 +1,13 @@
+--[[
+
+    If you're wondering why there are no NSFW Plugins here are 2 reasons why is it removed:
+
+    1. It doesn't work anymore.
+    2. The Official Infinite Yield Reborn said that the facebang command was the last NSFW command that they'll add into.
+    3. Are you serious? ScriptBlox? 
+
+]]
+
 local getconnections = getconnections or get_signal_cons
 if getconnections then
 	for _, v in pairs(getconnections(game:GetService("ScriptContext").Error)) do
@@ -8,23 +18,21 @@ local LoadUrl = function(str)
 	return loadstring(game:HttpGet(str, true))()
 end
 if not IY_LOADED then
-	LoadUrl("https://cdn.jsdelivr.net/gh/EdgeIY/infiniteyield@master/source")
+	LoadUrl("https://raw.githubusercontent.com/RyXeleron/infiniteyield-reborn/master/source")
 	wait(0.75)
 end
 
 local IS_Settings = {
 	["Version"] = "1.3.6",
-	["Invite"] = "dv96SXYmxz",
-	["Plugins"] = LoadUrl("https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/sources.luau"),
-	["NsfwPlugins"] = LoadUrl(
-		"https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/nsfwplugins/sources.luau"
+	["Invite"] = "VwCGhNu9Rb",
+	["Plugins"] = LoadUrl(
+		"https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/sources.luau"
 	),
 }
 
-local ann = "THIS IS NOW ARCHIVED AND IS DEAD, join the official IS  VwCGhNu9Rb"
+local ann = "This is a unofficial fork by Ry making I.Y.R x I.S. Run the ;discord command to join IYR, InfStore's Discord is on the Store Gui."
 local _UserSettings = {
 	["StartMinimized"] = false,
-	["SafeMode"] = false,
 	["NoNotifications"] = false,
 	["SkipIntro"] = false,
 	["Announcement"] = "",
@@ -352,13 +360,13 @@ if _UserSettings.StartMinimized == true then
 	if _UserSettings.NoNotifications == false then
 		notify(
 			"Infinite Store",
-			"Start Minimized is turned on, Infinite Store can be opened inside of Infinite Yield's Settings"
+			"Start Minimized is turned on, Infinite Store can be opened inside of Infinite Yield's Settings."
 		)
 	end
 else
 	mainFrame.Visible = true
 	if _UserSettings.NoNotifications == false then
-		notify("Infinite Store", "Start Minimized is turned off, this can be disabled in settings")
+		notify("Infinite Store", "Start Minimized is turned off, this can be disabled in settings.")
 	end
 end
 
@@ -1310,13 +1318,6 @@ end
 
 local settingsList = mainFrame.ListHolder.Settings.List
 
-local cleanPluginCheck = function()
-	if _UserSettings.SafeMode == true then
-		for i, v in pairs(IS_Settings["NsfwPlugins"]) do
-			mainFrame.ListHolder.Plugins.List[format("%s %s %s", v.Name, v.Creator, v.CreationDate)].Visible = false
-		end
-	end
-end
 
 local ObjectHolder = mainFrame:WaitForChild("ListHolder"):WaitForChild("Plugins"):WaitForChild("List")
 local searchBox =
@@ -1506,7 +1507,6 @@ local LoadPluginsFromTable = function(ptbl)
 	end
 end
 LoadPluginsFromTable(IS_Settings["Plugins"])
-LoadPluginsFromTable(IS_Settings["NsfwPlugins"])
 
 local guiSettings = {
 	["Start Minimized"] = {
@@ -1519,32 +1519,6 @@ local guiSettings = {
 			else
 				checkBoxHandler(true, settingsList["StartMinimized"].CheckBox)
 				_UserSettings.StartMinimized = true
-			end
-			UpdateSettings()
-		end,
-	},
-	["Safe Mode"] = {
-		["Name"] = "Safe Mode",
-		["Description"] = "Hide NSFW plugins.",
-		["Function"] = function()
-			if _UserSettings.SafeMode == true then
-				checkBoxHandler(false, settingsList["SafeMode"].CheckBox)
-				_UserSettings.SafeMode = false
-				for index, plgin in pairs(IS_Settings["NsfwPlugins"]) do
-					mainFrame.ListHolder.Plugins.List[tostring(
-						plgin.Name .. " " .. plgin.Creator .. " " .. plgin.CreationDate
-					)].Visible =
-						true
-				end
-			else
-				checkBoxHandler(true, settingsList["SafeMode"].CheckBox)
-				_UserSettings.SafeMode = true
-				for index, plgin in pairs(IS_Settings["NsfwPlugins"]) do
-					mainFrame.ListHolder.Plugins.List[tostring(
-						plgin.Name .. " " .. plgin.Creator .. " " .. plgin.CreationDate
-					)].Visible =
-						false
-				end
 			end
 			UpdateSettings()
 		end,
