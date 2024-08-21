@@ -1,4 +1,4 @@
-local PluginAPI = loadstring(game:HttpGet("https://pastebin.com/raw/u7HEbm8q"))()
+local PluginAPI = loadstring(game:HttpGet("https://raw.githubusercontent.com/RyXeleron/Infinite-Store/master/plugins/PluginApi.lua"))()
 local Plugin = PluginAPI:CreatePlugin("Add all plugins", "made by prisj")
 
 Plugin.Functions:AddCommand(
