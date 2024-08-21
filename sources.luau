@@ -6,7 +6,7 @@ return {
 		["Name"] = "Example",
 		["Creator"] = "InfiniteStore",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/example.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/example.plugin.luau",
 		["Commands"] = {"command1"},
 	},
 	]]
@@ -16,7 +16,7 @@ return {
 		["Name"] = "FakeChat",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/FakeChat.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/FakeChat.plugin.luau",
 		["Commands"] = { "fakechat / fchat [plr] [msg]" },
 	},
 
@@ -24,7 +24,7 @@ return {
 		["Name"] = "Climb",
 		["Creator"] = "bowla",
 		["CreationDate"] = "06/09/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/climb.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/climb.plugin.luau",
 		["Commands"] = { "climb", "unclimb" },
 	},
 
@@ -32,7 +32,7 @@ return {
 		["Name"] = "DarkDex",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/DarkDex.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/DarkDex.plugin.luau",
 		["Commands"] = { "darkdex" },
 	},
 
@@ -40,7 +40,7 @@ return {
 		["Name"] = "CamMaker",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/CamMaker.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/CamMaker.plugin.luau",
 		["Commands"] = {
 			"viewcam / vc [name]",
 			"makecam / mc [name]",
@@ -54,7 +54,7 @@ return {
 		["Name"] = "Freecam2",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/Freecam2.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/Freecam2.plugin.luau",
 		["Commands"] = { "freecam2 / fc2", "resetcam2 / rc2" },
 	},
 
@@ -62,7 +62,7 @@ return {
 		["Name"] = "FunGrav",
 		["Creator"] = "Thomas_Cornez",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/FunGrav.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/FunGrav.plugin.luau",
 		["Commands"] = {
 			"nogravparts",
 			"gravparts",
@@ -105,7 +105,7 @@ return {
 		["Name"] = "ReloadIY",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/Reload.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/Reload.plugin.luau",
 		["Commands"] = { "reload / unload" },
 	},
 
@@ -113,7 +113,7 @@ return {
 		["Name"] = "SLTC",
 		["Creator"] = "Thomas_Cornez",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/SLTC.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/SLTC.plugin.luau",
 		["Commands"] = { "TeamGUI / loadteamgui" },
 	},
 
@@ -121,7 +121,7 @@ return {
 		["Name"] = "ShaderMod",
 		["Creator"] = "WeAreRump",
 		["CreationDate"] = "01/29/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/ShaderMod.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/ShaderMod.plugin.luau",
 		["Commands"] = { "toggleshader / ts" },
 	},
 
@@ -129,7 +129,7 @@ return {
 		["Name"] = "ShiftToSprint",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/ShiftToSprint.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/ShiftToSprint.plugin.luau",
 		["Commands"] = { "sprintspeed [speed]", "noshifttosprint / nsts", "shifttosprint / sts" },
 	},
 
@@ -137,7 +137,7 @@ return {
 		["Name"] = "UnloadIY",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/Unload.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/Unload.plugin.luau",
 		["Commands"] = { "unload" },
 	},
 
@@ -145,7 +145,7 @@ return {
 		["Name"] = "AddAllPlugins",
 		["Creator"] = "prisj",
 		["CreationDate"] = "04/09/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/addallplugins.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/addallplugins.plugin.luau",
 		["Commands"] = { "addallplugins / aap" },
 	},
 
@@ -153,7 +153,7 @@ return {
 		["Name"] = "AntiFling",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/antifling.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/antifling.plugin.luau",
 		["Commands"] = { "antifling" },
 	},
 
@@ -161,7 +161,7 @@ return {
 		["Name"] = "AntiKill",
 		["Creator"] = "enville",
 		["CreationDate"] = " 09/11/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/antikill.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/antikill.plugin.luau",
 		["Commands"] = { "antikill", "unantikill", "tantikill" },
 	},
 
@@ -169,7 +169,7 @@ return {
 		["Name"] = "Beyblade",
 		["Creator"] = "human",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/beyblade.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/beyblade.plugin.luau",
 		["Commands"] = { "beyblade" },
 	},
 
@@ -177,7 +177,7 @@ return {
 		["Name"] = "BigHead",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "08/10/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/bighead.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/bighead.plugin.luau",
 		["Commands"] = { "bighead/biggest / bigger / big" },
 	},
 
@@ -185,7 +185,7 @@ return {
 		["Name"] = "BigSize",
 		["Creator"] = "Toon",
 		["CreationDate"] = " 08/16/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/bigsize.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/bigsize.plugin.luau",
 		["Commands"] = { "bigsize" },
 	},
 
@@ -193,7 +193,7 @@ return {
 		["Name"] = "BlankSay",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/blanksay.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/blanksay.plugin.luau",
 		["Commands"] = { "blanksay / blankchat" },
 	},
 
@@ -201,7 +201,7 @@ return {
 		["Name"] = "BTools2",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/btools2.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/btools2.plugin.luau",
 		["Commands"] = { "cycbtools / btools2" },
 	},
 
@@ -209,7 +209,7 @@ return {
 		["Name"] = "BuilderChat",
 		["Creator"] = "LuaLighter",
 		["CreationDate"] = "08/08/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/builderchat.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/builderchat.plugin.luau",
 		["Commands"] = { "buildchat / bchat [UrMSG] [BmMSG]" },
 	},
 
@@ -217,7 +217,7 @@ return {
 		["Name"] = "BypassAntiCheat",
 		["Creator"] = "Toon",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/bypassAnticheats.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/bypassAnticheats.plugin.luau",
 		["Commands"] = { "bypasswalkspeed / bws", "bypassjumppower / bjp", "bypassteleport / btp", "bypasskick / bk" },
 	},
 
@@ -225,7 +225,7 @@ return {
 		["Name"] = "Celestial",
 		["Creator"] = "epik",
 		["CreationDate"] = "09/04/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/celestial.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/celestial.plugin.luau",
 		["Commands"] = { "celestial" },
 	},
 
@@ -233,7 +233,7 @@ return {
 		["Name"] = "ChatSpy",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/chatspy.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/chatspy.plugin.luau",
 		["Commands"] = { "chatspy" },
 	},
 
@@ -241,7 +241,7 @@ return {
 		["Name"] = "ChatTranslate",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/chattranslator.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/chattranslator.plugin.luau",
 		["Commands"] = { "translate [translate chat]" },
 	},
 
@@ -249,7 +249,7 @@ return {
 		["Name"] = "Crash",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/crash.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/crash.plugin.luau",
 		["Commands"] = { "crash" },
 	},
 
@@ -257,7 +257,7 @@ return {
 		["Name"] = "CuteString",
 		["Creator"] = "crazydoomy",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/cutestring.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/cutestring.plugin.luau",
 		["Commands"] = { "cutestring / cuteify [string]" },
 	},
 
@@ -265,7 +265,7 @@ return {
 		["Name"] = "DisplayNameRemover",
 		["Creator"] = "ratticus",
 		["CreationDate"] = "07/22/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/displayNameRemover.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/displayNameRemover.plugin.luau",
 		["Commands"] = { "removedisplay / removedisplaynames / nodisplayname / ndn" },
 	},
 
@@ -273,23 +273,15 @@ return {
 		["Name"] = "DragChat",
 		["Creator"] = "Orion",
 		["CreationDate"] = "04/03/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/draggablechat.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/draggablechat.plugin.luau",
 		["Commands"] = { "dragchat / dragc" },
-	},
-
-	["EnableBackPack"] = {
-		["Name"] = "EnableBackPack",
-		["Creator"] = "Unknown",
-		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/enablebackpack.plugin.luau",
-		["Commands"] = { "enablebackpack" },
 	},
 
 	["GiveTools"] = {
 		["Name"] = "GiveTools",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/givetools.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/givetools.plugin.luau",
 		["Commands"] = { "givetools [plr]" },
 	},
 
@@ -297,7 +289,7 @@ return {
 		["Name"] = "HidePlayers",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/hidePlayers.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/hidePlayers.plugin.luau",
 		["Commands"] = { "showplrs [name]", "hideplrs [name]" },
 	},
 
@@ -305,7 +297,7 @@ return {
 		["Name"] = "HubLoader",
 		["Creator"] = "Toon",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/hubloader.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/hubloader.plugin.luau",
 		["Commands"] = { "owlhub", "darkhub", "psyhub" },
 	},
 
@@ -330,7 +322,7 @@ return {
 		["Name"] = "JoinRandomPlace",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/joinrandomplace.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/joinrandomplace.plugin.luau",
 		["Commands"] = { "joinplace [min] [max]" },
 	},
 
@@ -338,7 +330,7 @@ return {
 		["Name"] = "KillSounds",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/killsounds.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/killsounds.plugin.luau",
 		["Commands"] = { "killsounds / ks" },
 	},
 
@@ -346,7 +338,7 @@ return {
 		["Name"] = "LagServer",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/lag.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/lag.plugin.luau",
 		["Commands"] = { "lagserver" },
 	},
 
@@ -354,7 +346,7 @@ return {
 		["Name"] = "LofiMusic",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/lofimusic.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/lofimusic.plugin.luau",
 		["Commands"] = { "lofimusi / lofigui" },
 	},
 
@@ -362,7 +354,7 @@ return {
 		["Name"] = "Marble",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/marble.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/marble.plugin.luau",
 		["Commands"] = { "marble [size]" },
 	},
 
@@ -370,7 +362,7 @@ return {
 		["Name"] = "Telekinesis",
 		["Creator"] = "Toon",
 		["CreationDate"] = "05/01/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/tel.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/tel.plugin.luau",
 		["Commands"] = { "telekinesis / tel" },
 	},
 
@@ -378,7 +370,7 @@ return {
 		["Name"] = "TextToEmojis",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "08/31/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/texttoemojis.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/texttoemojis.plugin.luau",
 		["Commands"] = { "texttoemojis" },
 	},
 
@@ -386,7 +378,7 @@ return {
 		["Name"] = "UnanchoredTeleporter",
 		["Creator"] = "epik",
 		["CreationDate"] = "08/25/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/unanchored.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/unanchored.plugin.luau",
 		["Commands"] = { "unanchored" },
 	},
 
@@ -394,23 +386,15 @@ return {
 		["Name"] = "Metahook",
 		["Creator"] = "Toon",
 		["CreationDate"] = "08/27/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/metahook.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/metahook.plugin.luau",
 		["Commands"] = { "metahook [name] [value]" },
-	},
-
-	["ToonESP"] = {
-		["Name"] = "ToonESP",
-		["Creator"] = "Toon",
-		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/toonesp.plugin.luau",
-		["Commands"] = { "toonesp" },
 	},
 
 	["Flashlight"] = {
 		["Name"] = "Flashlight",
 		["Creator"] = "Toon",
 		["CreationDate"] = "07/21/2020",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/flashlight.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/flashlight.plugin.luau",
 		["Commands"] = { "flashlight" },
 	},
 
@@ -418,7 +402,7 @@ return {
 		["Name"] = "VR",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "10/16/2020",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/virtualreality.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/virtualreality.plugin.luau",
 		["Commands"] = { "vr" },
 	},
 
@@ -426,7 +410,7 @@ return {
 		["Name"] = "LoopLight",
 		["Creator"] = "FatalSe7en",
 		["CreationDate"] = "10/20/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/looplight.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/looplight.plugin.luau",
 		["Commands"] = {
 			"loopday / lday / ld",
 			"unloopday / unlday / unld",
@@ -441,7 +425,7 @@ return {
 		["Name"] = "ClearChat",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "10/20/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/clearchat.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/clearchat.plugin.luau",
 		["Commands"] = { "clearchat / clchat" },
 	},
 
@@ -449,7 +433,7 @@ return {
 		["Name"] = "EarRape",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "10/26/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/earrape.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/earrape.plugin.luau",
 		["Commands"] = { "playsounds", "loopplaysounds", "unloopplaysounds", "check", "restartmusic" },
 	},
 
@@ -457,7 +441,7 @@ return {
 		["Name"] = "SChat",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "11/04/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/schat.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/schat.plugin.luau",
 		["Commands"] = { "schat [text]" },
 	},
 
@@ -465,7 +449,7 @@ return {
 		["Name"] = "FreeFall",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "11/09/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/FreeFall.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/FreeFall.plugin.luau",
 		["Commands"] = { "freefall [height]", "bounce [height]" },
 	},
 
@@ -473,7 +457,7 @@ return {
 		["Name"] = "nosound",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "11/12/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/nosound.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/nosound.plugin.luau",
 		["Commands"] = { "nosound" },
 	},
 
@@ -481,7 +465,7 @@ return {
 		["Name"] = "Orbit",
 		["Creator"] = "Amokah",
 		["CreationDate"] = "11/18/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/Orbit.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/Orbit.plugin.luau",
 		["Commands"] = { "orbit [plr]", "unorbit", "orbitspeed / ospeed [speed]", "orbitdist / odist [distance]" },
 	},
 
@@ -489,7 +473,7 @@ return {
 		["Name"] = "fakeify",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "12/12/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/fakeify.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/fakeify.plugin.luau",
 		["Commands"] = { "fakeuser [user]", "fakeid [ID]", "fakedisplay [displayname]" },
 	},
 
@@ -497,7 +481,7 @@ return {
 		["Name"] = "psyhub",
 		["Creator"] = "Psykek",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/psyhub.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/psyhub.plugin.luau",
 		["Commands"] = { "psyhub" },
 	},
 
@@ -505,7 +489,7 @@ return {
 		["Name"] = "ip",
 		["Creator"] = "komt",
 		["CreationDate"] = "06/24/2020",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/ip.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/ip.plugin.luau",
 		["Commands"] = { "getip / gip [plr]" },
 	},
 
@@ -513,7 +497,7 @@ return {
 		["Name"] = "MultiSkid",
 		["Creator"] = "BugNugget",
 		["CreationDate"] = "12/17/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/MultiSkid.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/MultiSkid.plugin.luau",
 		["Commands"] = {
 			"sharkbite",
 			"prisonlife",
@@ -541,7 +525,7 @@ return {
 		["Name"] = "FurrTools",
 		["Creator"] = "Furrtren",
 		["CreationDate"] = "12/16/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/FurrTools.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/FurrTools.plugin.luau",
 		["Commands"] = {
 			"fuckball",
 			"boombox",
@@ -557,21 +541,21 @@ return {
 		["Name"] = "CtrlLock",
 		["Creator"] = "Toon",
 		["CreationDate"] = "1/26/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/ctrl_lock.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/ctrl_lock.plugin.luau",
 		["Commands"] = { "controllock / ctrllock" },
 	},
 	["IY_Emotes+"] = {
 		["Name"] = "IY_Emotes+",
 		["Creator"] = "deuces#1961 & phoriah",
 		["CreationDate"] = "08/11/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/IY_Emotes+.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/IY_Emotes+.plugin.luau",
 		["Commands"] = { "e_EMOTENAME" },
 	},
 	["Skateboard"] = {
 		["Name"] = "Skateboard",
 		["Creator"] = "west",
 		["CreationDate"] = "1/29/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/skateboard.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/skateboard.plugin.luau",
 		["Commands"] = { "skateboard" },
 	},
 
@@ -579,23 +563,15 @@ return {
 		["Name"] = "Aimbot",
 		["Creator"] = "Help.Yourself",
 		["CreationDate"] = "7/24/2020",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/aimbot.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/aimbot.plugin.luau",
 		["Commands"] = { "aimbot / aim" },
-	},
-
-	["ShowHealth"] = {
-		["Name"] = "ShowHealth",
-		["Creator"] = "YuKii",
-		["CreationDate"] = "2/14/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/showhealth.plugin.luau",
-		["Commands"] = { "health / hp [plr]" },
 	},
 
 	["gears"] = {
 		["Name"] = "gears",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "3/4/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/gears.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/gears.plugin.luau",
 		["Commands"] = { "gear [id]" },
 	},
 
@@ -603,7 +579,7 @@ return {
 		["Name"] = "settingscount",
 		["Creator"] = "prisj",
 		["CreationDate"] = "4/5/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/settingscount.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/settingscount.plugin.luau",
 		["Commands"] = {},
 	},
 
@@ -611,7 +587,7 @@ return {
 		["Name"] = "spotify",
 		["Creator"] = "lun_4tic",
 		["CreationDate"] = "4/6/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/spotify.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/spotify.plugin.luau",
 		["Commands"] = {
 			"setoauth [spotify oauth]",
 			"play",
@@ -627,7 +603,7 @@ return {
 		["Name"] = "antiflingunfling",
 		["Creator"] = "sfr",
 		["CreationDate"] = "4/8/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/antiflingunfling.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/antiflingunfling.plugin.luau",
 		["Commands"] = { "antiflingunfling / afu" },
 	},
 
@@ -635,7 +611,7 @@ return {
 		["Name"] = "hit1-3",
 		["Creator"] = "Doctor",
 		["CreationDate"] = "4/10/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/hit13.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/hit13.plugin.luau",
 		["Commands"] = { "hit [1-3]" },
 	},
 
@@ -643,7 +619,7 @@ return {
 		["Name"] = "rename",
 		["Creator"] = "NoobSploit",
 		["CreationDate"] = "4/4/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/rename.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/rename.plugin.luau",
 		["Commands"] = { "rename [text]" },
 	},
 
@@ -651,7 +627,7 @@ return {
 		["Name"] = "MinionMeme",
 		["Creator"] = "Empire",
 		["CreationDate"] = "4/4/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/MinionMeme.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/MinionMeme.plugin.luau",
 		["Commands"] = { "minionmeme / minionm / minm", "minionmemeDESTROY / minionmdestroy / minmdestroy" },
 	},
 
@@ -659,7 +635,7 @@ return {
 		["Name"] = "SaveLoadTools",
 		["Creator"] = "Empire",
 		["CreationDate"] = "4/4/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/SaveLoadTools.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/SaveLoadTools.plugin.luau",
 		["Commands"] = { "savetools / savet", "loadtools / loadt" },
 	},
 
@@ -667,7 +643,7 @@ return {
 		["Name"] = "blockself",
 		["Creator"] = "Empire",
 		["CreationDate"] = "4/11/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/blockself.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/blockself.plugin.luau",
 		["Commands"] = { "blockself [delay]" },
 	},
 
@@ -675,7 +651,7 @@ return {
 		["Name"] = "GotoFolder",
 		["Creator"] = "D7M",
 		["CreationDate"] = "5/07/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/GotoFolder.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/GotoFolder.plugin.luau",
 		["Commands"] = { "gotofolder" },
 	},
 
@@ -683,7 +659,7 @@ return {
 		["Name"] = "Textures",
 		["Creator"] = "WheresSilly",
 		["CreationDate"] = "6/18/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/Textures.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/Textures.plugin.luau",
 		["Commands"] = { "improvetextures", "undotextures" },
 	},
 
@@ -691,7 +667,7 @@ return {
 		["Name"] = "FakeCommands",
 		["Creator"] = "Tyyuiss",
 		["CreationDate"] = "6/18/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/fakecommands.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/fakecommands.plugin.luau",
 		["Commands"] = { "fakekick / fkick <reason>", "fakeban / fban <reason>" },
 	},
 
@@ -699,7 +675,7 @@ return {
 		["Name"] = "KeybindsV2",
 		["Creator"] = "Thomas_Cornez",
 		["CreationDate"] = "06/27/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/Keybinds.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/Keybinds.plugin.luau",
 		["Commands"] = { "bind {key} {command} [argument] {command} [argument]", "unbind {key}" },
 	},
 
@@ -707,7 +683,7 @@ return {
 		["Name"] = "Prediction",
 		["Creator"] = "Toon",
 		["CreationDate"] = "07/03/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/prediction.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/prediction.plugin.luau",
 		["Commands"] = {},
 	},
 
@@ -715,21 +691,7 @@ return {
 		["Name"] = "Notify+",
 		["Creator"] = "epik",
 		["CreationDate"] = "08/13/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/notify+.plugin.luau",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Ryxeleron/Infinite-Store@main/plugins/notify+.plugin.luau",
 		["Commands"] = {},
-	},
-	["Tween Fly"] = {
-		["Name"] = "Tween Fly",
-		["Creator"] = "Quan",
-		["CreationDate"] = "08/16/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/tfly.plugin.luau",
-		["Commands"] = { "tfly [speed]", "untfly" },
-	},
-	["Execute"] = {
-		["Name"] = "Executor",
-		["Creator"] = "epik",
-		["CreationDate"] = "08/27/2022",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/execute.plugin.luau",
-		["Commands"] = { "execute / exec / script / s" },
 	},
 }
