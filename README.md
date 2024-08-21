@@ -38,4 +38,4 @@ You may also open a pull request to add your plugin URLs from a source repositor
 
 ## License
 
-Please read the [license](https://github.com/Infinite-Store/Infinite-Store/blob/main/LICENSE.md) before asking to use Infinite Store in your project.
+I don't think the license is still available, maybe it's deleted.
