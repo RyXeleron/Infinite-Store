@@ -1,3 +1,5 @@
+![logo_nightly_transparent](https://github.com/user-attachments/assets/ea749e7a-73a0-4418-b343-24dab053c376)
+
 <h1 align="center">
 	Infinite Shopping Mart
 </h1>
